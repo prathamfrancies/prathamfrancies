@@ -5,12 +5,7 @@
 
 ### 💫 About Me  
 🎓 Bachelor of Engineering in **Artificial Intelligence & Machine Learning**  
-💻 Passionate about **AI, ML, and Data Science**  
-🔍 Exploring **Computer Vision, NLP, and Generative AI**  
-📚 Currently learning **Deep Learning** and **MLOps**  
-🤝 Open to collaborating on **AI/ML projects, Research, and Python-based applications**  
-🛠 Skilled in **Java, TensorFlow, OpenCV**, and **Web Development**  
-📊 Enthusiastic about applying AI to **real-world problems**  
+  
 ✨ *Fun fact:* I enjoy turning complex problems into simple, automated solutions  
 
 ---
