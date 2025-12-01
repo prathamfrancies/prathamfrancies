@@ -5,12 +5,19 @@
 
 🎓 Bachelor of Engineering in **Artificial Intelligence & Machine Learning**
 
-💼 Currently working at **Prapti Consulting** as a **Full Stack Developer**
-
 ✨ Fun fact: I enjoy turning complex problems into elegant, automated solutions that actually *work* in real-world environments.
 
 ---
+  # 👨‍💼 Current Role
 
+💼 I am currently working at **Prapti Consulting** as a **Full Stack Developer**, where I contribute to:  
+- 🔧 Building scalable **Java + Spring Boot** backends  
+- 🌐 Developing responsive **React & Bootstrap** frontends  
+- 🗄️ Integrating and optimizing **MySQL databases**  
+- ⚙️ Writing clean, production-level code  
+- 🧪 API testing, debugging & deployments
+
+  
 ### 🔥 What I’m currently focused on  
 - Building robust backend services using **Spring Boot & Java**
 - Crafting responsive and optimized UIs with **React & JavaScript**
